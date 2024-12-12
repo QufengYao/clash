@@ -1,5 +1,6 @@
 # 内容：OpenAi Bard anthropic
 # 域名关键字匹配
+DOMAIN-KEYWORD,serv00
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
@@ -7,7 +8,6 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
-DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
